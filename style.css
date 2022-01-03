@@ -9,6 +9,10 @@ h1 {
 
 }
 
+section{
+margin-bottom: 100px;
+}
+
 .orange-color {
     color: orange;
 }
@@ -42,3 +46,9 @@ h1 {
     margin-top: 10px;
 }
 
+.dream-big {
+    display: flex;
+    background-image: url(/image/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
